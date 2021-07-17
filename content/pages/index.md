@@ -2,6 +2,6 @@
 title: Read Daily Notes
 template: index-template
 ---
-\#Hello World
+Read Daily Notes
 
 Stay Connected
